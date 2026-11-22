@@ -1,0 +1,14 @@
+# Secrets and credentials
+*.pem
+*.key
+*.ppk
+id_rsa
+id_ed25519
+.env
+.env.*
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
